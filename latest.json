@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://raw.githubusercontent.com/OCTunel2/NasInstantSync-releases/main/NasInstantSync-1.1.apk",
+  "notes": "v1.1: หน้าตา Material 3 ใหม่ + สลับ IP บ้าน/อุโมงค์อัตโนมัติ + ปุ่มลดจำกัดแบต + ระบบอัปเดตอัตโนมัติ"
+}
