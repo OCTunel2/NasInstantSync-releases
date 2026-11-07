@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3.2",
-  "apkUrl": "https://raw.githubusercontent.com/OCTunel2/NasInstantSync-releases/main/NasInstantSync-1.3.2.apk",
-  "notes": "แก้ให้โชว์โหมดการเชื่อมต่อ (LAN/Tailscale/WeLine) พร้อม IP ตลอดเวลา แม้ตอนใช้เน็ตมือถือ และรีเฟรชสถานะทันทีตอนเปิดแอป"
+  "versionCode": 7,
+  "versionName": "1.4",
+  "apkUrl": "https://raw.githubusercontent.com/OCTunel2/NasInstantSync-releases/main/NasInstantSync-1.4.apk",
+  "notes": "ย้ายการตั้งค่า IP/login/share ไปไว้ในหน้าตั้งค่าแยก (กดไอคอน ⚙ มุมขวาบน) หน้าหลักโล่งขึ้นเยอะ"
 }
